@@ -7,7 +7,7 @@ pip install tkinter
 
 # 效果图
 <p align="center">
-  <img src="https://github.com/PPalouga/screen_pic_get/main.png" alt="">
-  <img src="https://github.com/PPalouga/screen_pic_get/select_region.png" alt="">
+  <img src="https://github.com/PPalouga/screen_pic_get/blob/main/main.png" alt="">
+  <img src="https://github.com/PPalouga/screen_pic_get/blob/main/select_region.png" alt="">
 </p>
 
