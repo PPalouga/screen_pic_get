@@ -3,6 +3,7 @@
 
 # 安装运行库
 pip install pyautogui
+
 pip install tkinter
 
 # 效果图
